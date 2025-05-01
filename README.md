@@ -15,17 +15,7 @@
 - Employs an asynchronous XMLHttpRequest to ensure non-blocking communication with the Flask Backend.
 
 
-## Output Screenshot
-![alt text](/extention/images/output.png?raw=true)
-
-## Installation
-- Clone this repository to your local machine:
-- 
-  ```
-  git clone https://github.com/yourusername/YouTube-Transcript-Summarizer.git
-  cd YouTube-Transcript-Summarizer
-  ```
-- Next, install the dependencies:
+ To install the dependencies:
 - 
   ```
   pip install -r Requirements.txt
@@ -45,11 +35,4 @@
   - All Done..!!
 
 
-## Contribution
-Contributions to this project are *welcome!* If you wish to contribute, please follow these steps:
-- Fork the repository.
-- Create a new branch for your features or fixes.
-- Make your changes and commit them.
-- Push your changes to your fork.
-- Create a Pull Request from your fork to this repository.
-- Make sure to update the ```Requirements.txt``` file if you've added any new dependencies.
+
